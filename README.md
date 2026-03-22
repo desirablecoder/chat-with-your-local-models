@@ -10,6 +10,8 @@ npm install
 npm run dev
 ```
 
+<img src="screenshots/chat-with-your-local-models.png" alt="A description" width="auto" height="auto">
+
 To run the example locally you need to:
 
 1. [Download Ollama](https://ollama.ai/download) and install it locally.
